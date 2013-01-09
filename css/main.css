@@ -1,0 +1,24 @@
+body {
+  padding-top: 40px;
+  background: url('../img/grid.png') repeat fixed;
+}
+.navbar .brand {
+  margin-left: 0;
+}
+
+#top {
+  padding-top: 30px;
+}
+
+#possible-roles {
+  font-size: 15px;
+  font-style: italic;
+  text-align: center;
+  list-style: none;  
+}
+
+#possible-roles li {
+  display: inline;
+  padding-right: 1.5em;
+  line-height: 2em;
+}
